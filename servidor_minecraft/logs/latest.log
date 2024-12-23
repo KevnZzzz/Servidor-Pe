@@ -1262,3 +1262,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Dec2024 05:58:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Survival Mode]
 [23Dec2024 06:03:44.997] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
 [23Dec2024 06:03:52.790] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[23Dec2024 06:07:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevnZzz was killed
+[23Dec2024 06:07:22.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Killed KevnZzz]
+[23Dec2024 06:07:22.323] [Server thread/INFO] [tombstone/]: The player KevnZzz has successfully been saved
+[23Dec2024 06:07:33.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevnZzz was killed
+[23Dec2024 06:07:33.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Killed KevnZzz]
+[23Dec2024 06:07:33.181] [Server thread/INFO] [tombstone/]: The player KevnZzz has successfully been saved
+[23Dec2024 06:08:53.214] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[23Dec2024 06:09:06.255] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[23Dec2024 06:10:30.101] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=128, y=69, z=-2537}
+[23Dec2024 06:15:29.966] [Worker-Main-5/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[23Dec2024 06:15:29.975] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[23Dec2024 06:15:29.976] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[23Dec2024 06:15:29.976] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[23Dec2024 06:15:39.356] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[23Dec2024 06:15:39.357] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[23Dec2024 06:15:39.868] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[23Dec2024 06:15:39.869] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[23Dec2024 06:15:39.886] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[23Dec2024 06:15:39.886] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[23Dec2024 06:15:39.887] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}

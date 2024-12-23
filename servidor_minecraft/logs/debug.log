@@ -751,3 +751,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 01:57:47.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KevnZzz lost connection: Disconnected
 [23Dec2024 01:57:47.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevnZzz left the game
 [23Dec2024 01:57:47.044] [Server thread/WARN] [net.minecraft.world.level.storage.PlayerDataStorage/]: Failed to save player data for KevnZzz
+[23Dec2024 02:01:17.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:01:17.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:06:17.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:06:17.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

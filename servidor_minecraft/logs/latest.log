@@ -1238,3 +1238,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Dec2024 05:53:53.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KevnZzz
 [23Dec2024 05:53:54.207] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.minecraft.zombie', args=[]}
 [23Dec2024 05:53:54.208] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombie', args=[]}
+[23Dec2024 05:55:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Creative Mode]
+[23Dec2024 05:55:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Survival Mode]
+[23Dec2024 05:55:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Spectator Mode]
+[23Dec2024 05:55:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Survival Mode]
+[23Dec2024 05:55:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Spectator Mode]
+[23Dec2024 05:56:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Survival Mode]
+[23Dec2024 05:57:23.853] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:23.975] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:23.975] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.319] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.319] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.320] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.320] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.320] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.320] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.321] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.321] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.321] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.321] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:57:25.322] [Worker-Main-5/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[23Dec2024 05:58:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Creative Mode]
+[23Dec2024 05:58:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevnZzz: Set own game mode to Survival Mode]
+[23Dec2024 06:03:44.997] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[23Dec2024 06:03:52.790] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}

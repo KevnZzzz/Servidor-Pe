@@ -1,544 +1,65 @@
 {
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-20 18:29:13 +0100"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
-      "0": "2024-12-20 18:29:13 +0100"
+      "0": "2024-12-23 03:23:32 +0000"
     },
     "done": true
   },
   "tombstone:adventure/christmas": {
     "criteria": {
-      "coded_trigger": "2024-12-20 18:29:13 +0100"
+      "coded_trigger": "2024-12-23 03:23:32 +0000"
     },
     "done": true
   },
   "mna:root": {
     "criteria": {
-      "get_vinteum": "2024-12-20 18:29:13 +0100"
+      "get_vinteum": "2024-12-23 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-23 03:23:33 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-20 18:29:13 +0100"
+      "custom_test_name": "2024-12-23 03:23:33 +0000"
     },
     "done": true
   },
   "corail_recycler:tutorial/root": {
     "criteria": {
-      "auto": "2024-12-20 18:53:26 +0100"
+      "auto": "2024-12-23 03:23:35 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2024-12-20 19:52:47 +0100",
-      "minecraft:deep_ocean": "2024-12-21 21:18:42 +0100",
-      "quark:glimmering_weald": "2024-12-22 01:47:25 +0100",
-      "minecraft:cherry_grove": "2024-12-21 16:37:59 +0100",
-      "minecraft:sunflower_plains": "2024-12-21 21:02:22 +0100",
-      "minecraft:birch_forest": "2024-12-20 19:32:33 +0100",
-      "minecraft:windswept_hills": "2024-12-21 21:05:52 +0100",
-      "minecraft:beach": "2024-12-20 18:57:39 +0100",
-      "minecraft:river": "2024-12-20 19:34:17 +0100",
-      "minecraft:forest": "2024-12-20 19:04:28 +0100",
-      "minecraft:ocean": "2024-12-20 19:11:57 +0100",
-      "minecraft:windswept_savanna": "2024-12-22 02:06:44 +0100",
-      "minecraft:flower_forest": "2024-12-20 18:58:57 +0100",
-      "minecraft:old_growth_birch_forest": "2024-12-20 19:34:19 +0100",
-      "minecraft:plains": "2024-12-20 18:53:26 +0100"
+      "minecraft:beach": "2024-12-23 03:26:17 +0000",
+      "minecraft:river": "2024-12-23 03:27:51 +0000",
+      "minecraft:forest": "2024-12-23 03:27:36 +0000",
+      "minecraft:flower_forest": "2024-12-23 03:42:19 +0000",
+      "minecraft:plains": "2024-12-23 03:23:35 +0000"
     },
     "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2024-12-20 18:53:26 +0100"
+      "auto": "2024-12-23 03:23:35 +0000"
     },
     "done": true
   },
   "endofherobrine:story/root": {
     "criteria": {
-      "requirement": "2024-12-20 18:59:15 +0100"
+      "requirement": "2024-12-23 03:25:13 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2024-12-20 18:59:15 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2024-12-21 21:06:10 +0100",
-      "minecraft:skeleton": "2024-12-20 19:05:00 +0100",
-      "minecraft:ravager": "2024-12-21 16:57:14 +0100",
-      "minecraft:vindicator": "2024-12-20 19:26:02 +0100",
-      "minecraft:spider": "2024-12-20 18:59:15 +0100",
-      "minecraft:creeper": "2024-12-21 16:53:29 +0100",
-      "minecraft:wither_skeleton": "2024-12-21 17:01:35 +0100",
-      "minecraft:stray": "2024-12-22 02:23:37 +0100",
-      "minecraft:zombie": "2024-12-20 19:01:55 +0100",
-      "minecraft:zombie_villager": "2024-12-22 02:06:21 +0100"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-12-20 18:59:15 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/recycler": {
-    "criteria": {
-      "requirement_2": "2024-12-20 19:32:41 +0100",
-      "requirement_3": "2024-12-21 17:53:38 +0100",
-      "requirement_1": "2024-12-20 18:59:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-20 18:59:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-20 19:00:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-20 19:00:15 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-20 19:01:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2024-12-20 19:02:20 +0100",
-      "cooked_beef": "2024-12-22 02:06:16 +0100",
-      "baked_potato": "2024-12-22 03:00:28 +0100",
-      "bread": "2024-12-20 19:24:32 +0100",
-      "golden_apple": "2024-12-21 16:40:39 +0100",
-      "golden_carrot": "2024-12-20 19:33:14 +0100"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-20 19:02:20 +0100"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-12-20 19:02:41 +0100"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2024-12-20 19:24:12 +0100"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:26:02 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:26:02 +0100"
-    },
-    "done": true
-  },
-  "quark:crawl_in_hollow_log": {
-    "criteria": {
-      "crawl_in_hollow_log": "2024-12-20 19:32:23 +0100"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_tower_of_the_undead": "2024-12-22 02:15:43 +0100",
-      "entered_large_dungeon": "2024-12-20 21:15:21 +0100",
-      "entered_ruined_building": "2024-12-20 19:32:36 +0100"
-    },
-    "done": false
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_ruined_building": "2024-12-20 19:32:36 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/netherite_disk": {
-    "criteria": {
-      "requirement_2": "2024-12-20 19:32:41 +0100"
-    },
-    "done": false
-  },
-  "corail_recycler:recipes/steel_disk": {
-    "criteria": {
-      "requirement_2": "2024-12-20 19:32:41 +0100",
-      "requirement_1": "2024-12-21 19:53:37 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_disk": {
-    "criteria": {
-      "requirement_2": "2024-12-20 19:32:41 +0100"
-    },
-    "done": false
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2024-12-20 19:32:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-20 19:32:41 +0100"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2024-12-20 19:35:30 +0100"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_birch": "2024-12-20 19:35:30 +0100"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2024-12-20 19:36:20 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:49:23 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:54:05 +0100"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2024-12-20 19:54:08 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2024-12-20 19:54:08 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:54:13 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 19:54:15 +0100"
-    },
-    "done": true
-  },
-  "endofherobrine:story/exorcist": {
-    "criteria": {
-      "endofherobrine:cow": "2024-12-20 19:54:17 +0100"
-    },
-    "done": false
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 20:38:51 +0100"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-20 21:01:13 +0100"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:thats_a_dungeon": {
-    "criteria": {
-      "entered_large_dungeon": "2024-12-20 21:15:21 +0100"
-    },
-    "done": true
-  },
-  "mna:tier_0/codex_trade": {
-    "criteria": {
-      "has_stone": "2024-12-20 21:19:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-20 21:20:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-20 21:31:42 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 04:24:06 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 04:24:51 +0100"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2024-12-21 04:38:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-12-21 16:26:44 +0100"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mechanical_nest": {
-    "criteria": {
-      "location0": "2024-12-21 16:38:30 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_shard": {
-    "criteria": {
-      "requirement_1": "2024-12-21 16:40:20 +0100"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-21 16:40:20 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/discreet_search": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 16:46:12 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/easy_opening": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 16:49:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-21 16:58:52 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-12-21 17:44:40 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 17:54:37 +0100"
-    },
-    "done": true
-  },
-  "vampirism:main/ancient_knowledge": {
-    "criteria": {
-      "blood_container": "2024-12-21 18:14:45 +0100"
-    },
-    "done": true
-  },
-  "mna:loot/acquire_runic_malus": {
-    "criteria": {
-      "has_malus": "2024-12-21 18:23:45 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2024-12-21 19:25:57 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:tutorial/build_recycler": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 19:53:15 +0100"
-    },
-    "done": true
-  },
-  "corail_recycler:tutorial/build_disk": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 19:53:38 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2024-12-21 19:59:36 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2024-12-21 20:00:12 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2024-12-21 20:02:22 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primitive_club": {
-    "criteria": {
-      "limestone": "2024-12-21 20:19:01 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
-    "criteria": {
-      "killed_relicheirus": "2024-12-21 20:25:57 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "tunic": "2024-12-21 20:47:37 +0100"
-    },
-    "done": false
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-21 21:20:39 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-21 21:28:41 +0100"
-    },
-    "done": true
-  },
-  "mna:tier_0/mine_vinteum": {
-    "criteria": {
-      "has_stone": "2024-12-21 21:30:27 +0100"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2024-12-21 21:37:33 +0100"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2024-12-21 21:39:19 +0100"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2024-12-21 21:41:02 +0100"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-21 21:45:11 +0100"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2024-12-21 21:50:28 +0100"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "1": "2024-12-21 21:52:22 +0100"
-    },
-    "done": false
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2024-12-21 21:55:46 +0100"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2024-12-21 22:01:38 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2024-12-22 01:46:37 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_feather_fall": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-22 01:46:37 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-22 02:12:47 +0100"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-22 02:57:42 +0100"
+      "killed_something": "2024-12-23 03:41:35 +0000"
     },
     "done": true
   },
